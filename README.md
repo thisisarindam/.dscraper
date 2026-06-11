@@ -1,2 +1,2 @@
 # .dscraper
-data scraping using selenium
+data scraping project using selenium
